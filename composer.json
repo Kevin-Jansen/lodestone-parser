@@ -1,5 +1,5 @@
 {
-    "name": "xivapi/lodestone-parser",
+    "name": "kevin-jansen/lodestone-parser",
     "type": "library",
     "keywords": ["ffxiv","php","parser","lodestone"],
     "description": "A Lodestone Parser",
