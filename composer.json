@@ -27,6 +27,9 @@
     "autoload": {
         "psr-0": {
             "Lodestone\\": "src/"
+        },
+        "psr-4": {
+            "Lodestone\\": "src/"
         }
     }
 }
